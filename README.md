@@ -5,17 +5,17 @@ Here is where I showcase some of my general machine learning practice. Currently
 ### Supervised ML
 #### Linear Models:
 - Linear Regression 
-- Logistic Regression ✔️ (3/28)
+- Logistic Regression ✔️ (3/28/23)
 - Ridge Regression
 - Lasso Regression
 
 #### Tree-based Models:
 - Decision Tree 
-- Random Forests
+- Random Forests 
 - Gradient Boosting Regression 
 - XG Boost
 - LightGBM Regressor 
-- Adaboost ✔️ (3/31)
+- Adaboost ✔️ (3/31/23)
 
 #### Supervised ML
 
