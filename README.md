@@ -5,7 +5,7 @@ Here is where I showcase some of my general machine learning practice. Currently
 ### Supervised ML
 #### Linear Models:
 - Linear Regression 
-- Logistic Regression
+- Logistic Regression ✔️ (3/28)
 - Ridge Regression
 - Lasso Regression
 
@@ -15,6 +15,9 @@ Here is where I showcase some of my general machine learning practice. Currently
 - Gradient Boosting Regression 
 - XG Boost
 - LightGBM Regressor 
+- Adaboost ✔️ (3/31)
+
+#### Supervised ML
 
 #### Clustering
 - K-means
