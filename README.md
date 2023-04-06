@@ -10,9 +10,10 @@ Here is where I showcase some of my general machine learning practice. Currently
 - Decision Tree (Regressor/Classifier)✔️
 - Random Forests ✔️
 #### Clustering
-- K-means
-- Heirachical Clustering
+- K-means ✔️
+- Heirachical Clustering✔️
 
+# Learning 
 
 ### Supervised ML
 #### Linear Models 
