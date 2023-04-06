@@ -25,7 +25,7 @@ Here is where I showcase some of my general machine learning practice. Currently
 - Gradient Boosting Regression 
 - XG Boost
 - LightGBM Regressor 
-- Adaboost ✔️ (3/31/23)
+- Adaboost(https://github.com/tylerwalkerbrown/Machine-Learning-Practice/blob/main/Adaboost%20Classifier/Adaboost_classifier.ipynb) ✔️ (3/31/23)
 
 #### Clustering
 - Gaussian Mixture Models 
