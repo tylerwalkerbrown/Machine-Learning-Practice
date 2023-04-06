@@ -5,7 +5,7 @@ Here is where I showcase some of my general machine learning practice. Currently
 ## Experience With 
 #### Linear Models:
 - Linear Regression ✔️
-- Logistic Regression✔️
+- [Logistic Regression](https://github.com/tylerwalkerbrown/Machine-Learning-Practice/blob/main/Logistic%20Regression%20Telco%20Optimization/Telco-Logistic-Regression-Optimization.ipynb) ✔️
 #### Tree-based Models:
 - Decision Tree (Regressor/Classifier)✔️
 - Random Forests ✔️
