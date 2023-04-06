@@ -20,20 +20,19 @@ Here is where I showcase some of my general machine learning practice. Currently
 - Ridge Regression
 - Lasso Regression
 
+
 #### Tree-based Models:
 - Gradient Boosting Regression 
 - XG Boost
 - LightGBM Regressor 
 - Adaboost ✔️ (3/31/23)
 
-#### Supervised ML
-
 #### Clustering
 - Gaussian Mixture Models 
 
 # Deep Learning
 
-Once I complete all models listed I will then be showcasing deep learning model. Deep learning I have worked with in the past but these are models I will be learning about.
+Once I complete all models listed I will then be showcasing deep learning model. Deep learning I have worked with in the past but need to conceptualize the models.
 
 - Convolutional Neural Networks (CNNs)
 - AlexNet
