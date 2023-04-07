@@ -8,7 +8,7 @@ Here is where I showcase some of my general machine learning practice. Currently
 - [Logistic Regression](https://github.com/tylerwalkerbrown/Machine-Learning-Practice/blob/main/Logistic%20Regression%20Telco%20Optimization/Telco-Logistic-Regression-Optimization.ipynb) ✔️
 #### Tree-based Models:
 - [Decision Tree (Regressor/Classifier)](https://github.com/tylerwalkerbrown/Hackathon-Fun/blob/main/Participants_Data/D_T_Regression.ipynb)✔️
-- [Random Forests] ✔️
+- Random Forests ✔️
 #### Clustering
 - [K-means](https://github.com/tylerwalkerbrown/Warehouse-Optimization) ✔️
 - Heirachical Clustering ✔️
