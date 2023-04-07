@@ -10,7 +10,7 @@ Here is where I showcase some of my general machine learning practice. Currently
 - [Decision Tree (Regressor/Classifier)](https://github.com/tylerwalkerbrown/Hackathon-Fun/blob/main/Participants_Data/D_T_Regression.ipynb)✔️
 - [Random Forests](https://github.com/tylerwalkerbrown/Warehouse-Optimization) ✔️
 #### Clustering
-- K-means ✔️
+- [K-means](https://github.com/tylerwalkerbrown/Warehouse-Optimization) ✔️
 - Heirachical Clustering✔️
 
 # Learning 
