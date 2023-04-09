@@ -29,7 +29,7 @@ Here is where I showcase some of my general machine learning practice. Currently
 - LightGBM Regressor 
 - [Adaboost](https://github.com/tylerwalkerbrown/Machine-Learning-Practice/blob/main/Adaboost%20Classifier/Adaboost_classifier.ipynb) ✔️ (3/31/23)
   - ![image](https://user-images.githubusercontent.com/94020684/230753404-2cd9f538-b146-4557-be04-3bedd9f32ef8.png)
-  - ![image](https://user-images.githubusercontent.com/94020684/230753445-f14cc817-ea37-4418-bd15-82f33bf7c97b.png)
+  - <img src="https://user-images.githubusercontent.com/94020684/230753445-f14cc817-ea37-4418-bd15-82f33bf7c97b.png" alt="image" width="200"/>
 
 
 
