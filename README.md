@@ -23,6 +23,8 @@ Here is where I showcase some of my general machine learning practice. Currently
 
 #### Tree-based Models:
 - [Gradient Boosting Regression](https://github.com/tylerwalkerbrown/Machine-Learning-Practice/blob/main/Gradient%20Boost/Housing%20Prices%20Hackatho.ipynb) ✔️ (4/08/23)
+  - Mean Squared Error: 1353.5836134382407
+  - R2: 0.9390071775960762
 - XG Boost
 - LightGBM Regressor 
 - [Adaboost](https://github.com/tylerwalkerbrown/Machine-Learning-Practice/blob/main/Adaboost%20Classifier/Adaboost_classifier.ipynb) ✔️ (3/31/23)
