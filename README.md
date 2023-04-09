@@ -1,4 +1,43 @@
-# Machine-Learning-Practice
-Ex. Visuals
+# Self Guided Machine Learning Practice
 
-![image](https://user-images.githubusercontent.com/94020684/228683005-32085971-fe17-43db-8f5d-6a8fa9ab32b6.png)
+Here is where I showcase some of my general machine learning practice. Currently working though getting fimiliar/refreshing myself on ML models. This is aside from my other personal portfolio projects that I am pursuing. Each folder contains a difference ML model that I practiced with whiteboard activities and studied. Goal is to work through these models to showcase:
+
+## Experience With 
+#### Linear Models:
+- Linear Regression ✔️
+- [Logistic Regression](https://github.com/tylerwalkerbrown/Machine-Learning-Practice/blob/main/Logistic%20Regression%20Telco%20Optimization/Telco-Logistic-Regression-Optimization.ipynb) ✔️
+#### Tree-based Models:
+- [Decision Tree (Regressor/Classifier)](https://github.com/tylerwalkerbrown/Hackathon-Fun/blob/main/Participants_Data/D_T_Regression.ipynb)✔️
+- Random Forests ✔️
+#### Clustering
+- [K-means](https://github.com/tylerwalkerbrown/Warehouse-Optimization) ✔️
+- Heirachical Clustering ✔️
+
+# Learning 
+
+### Supervised ML
+#### Linear Models 
+- Ridge Regression
+- Lasso Regression
+
+
+#### Tree-based Models:
+- Gradient Boosting Regression 
+- XG Boost
+- LightGBM Regressor 
+- [Adaboost](https://github.com/tylerwalkerbrown/Machine-Learning-Practice/blob/main/Adaboost%20Classifier/Adaboost_classifier.ipynb) ✔️ (3/31/23)
+
+#### Clustering
+- Gaussian Mixture Models 
+
+# Deep Learning
+
+Once I complete all models listed I will then be showcasing deep learning model. Deep learning I have worked with in the past but need to conceptualize the models.
+
+- Convolutional Neural Networks (CNNs)
+- AlexNet
+- VGGNet
+- ResNet
+- InceptionNet
+- MobileNet
+- DenseNet
