@@ -22,7 +22,7 @@ Here is where I showcase some of my general machine learning practice. Currently
 
 
 #### Tree-based Models:
-- Gradient Boosting Regression 
+- [Gradient Boosting Regression](https://github.com/tylerwalkerbrown/Machine-Learning-Practice/blob/main/Gradient%20Boost/Housing%20Prices%20Hackatho.ipynb) 
 - XG Boost
 - LightGBM Regressor 
 - [Adaboost](https://github.com/tylerwalkerbrown/Machine-Learning-Practice/blob/main/Adaboost%20Classifier/Adaboost_classifier.ipynb) ✔️ (3/31/23)
